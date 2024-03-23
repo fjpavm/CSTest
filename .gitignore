@@ -43,6 +43,8 @@ Projects/RPi/Output
 ################################
 bin/
 obj/
+csbin/
+csobj/
 .DS_Store
 Thumbs.db
 *.pyc
